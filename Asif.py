@@ -1,3 +1,3 @@
 import BNB
 
-BNB.main()
+BNB main()
