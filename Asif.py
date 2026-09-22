@@ -1,2 +1,1 @@
 import BNBM
-BNBM.main()
