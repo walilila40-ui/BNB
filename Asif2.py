@@ -1,2 +1,0 @@
-import BNBMM
-BNBMM.main()
