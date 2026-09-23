@@ -1,3 +1,3 @@
-import BNBM
+import BNBB
 
-BNBM.main()
+BNBB.main()
