@@ -1,0 +1,2 @@
+import BNBMM
+BNBMM.main()
