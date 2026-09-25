@@ -1,6 +1,6 @@
 ## ⚡ INSTALL TOOL ON TERMUX
 
-```bash
+```
 pkg update
 pkg upgrade
 
@@ -15,10 +15,10 @@ pip install mechanize
 
 ## 🚀 DOWNLOAD & RUN
 
-```bash
+```
 rm -rf BNB
 cd
-git clone https://github.com/walilila40-ui/BNB.git
+git clone https://github.com/ASIF-KHAN0-320-420/BNB.git
 cd BNB
 python Asif.py
 ```
